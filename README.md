@@ -69,7 +69,7 @@ A productivity application designed to make focused work sessions more enjoyable
 
 **Stack:** React · JavaScript
 
-🌐 [Visit Website](https://mysweetpomodoro.com.br) · [Source Code](https://github.com/JohnnErick/my-cozy-room-pomodoro)
+🌐 [Visit Website](https://mysweetpomodoro.com.br)
 
 ### Aquar
 
